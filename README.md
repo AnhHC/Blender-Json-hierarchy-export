@@ -13,9 +13,9 @@ How to use?
 ---
 1. On Blender project, on the Hierarchy panel, select on root collection
 2. Select `File > Export > Json Hierarchy (json)`
-7. Choose your export location and export filename.
-8. Press `Export`.
-9. You will get an exported JSON file.
+3. Choose your export location and export filename.
+4. Press `Export`.
+5. You will get an exported JSON file.
 
 License
 ---
