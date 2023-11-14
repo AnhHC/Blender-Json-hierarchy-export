@@ -5,7 +5,7 @@ This add-on exports hierarchy structure of Blender in order to use for web rende
 
 How to install?
 ---
-1. Zip this repository in a `.zip` file or download a [release](https://github.com/voxell-tech/ClothExporter/releases).
+1. Zip this repository in a `.zip` file or download a [release](https://github.com/AnhHC/Blender-Json-hierarchy-export/releases).
 2. Open Blender, go to `Edit > Preferences > Add-ons > Install` and choose the `.zip` file.
 3. Select `Exporter: Json Hierarchy (json)` in the side bar. Check onto checkbox to install blender add-on
    
